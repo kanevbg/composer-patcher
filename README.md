@@ -1,4 +1,4 @@
-# New version soon for Magento 2 soon
+# New version for Magento 2 soon
 I'd be releasing Magento 2.x compatible composer patcher with enterpise-level features and then follow user needs.
 
 # Patcher
